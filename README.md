@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# portfolio
 
-## Getting Started
+## Introduction
 
-First, run the development server:
+This repository showcases a practice portfolio website built with a focus on modern development practices. It utilizes the following technologies:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Next.js :** A React framework for server-side rendering and static site generation, providing a smooth user experience and SEO benefits.
+- **Tailwind CSS :** A utility-first CSS framework offering rapid and responsive design customization.
+- **Aceternity UI :** A collection of pre-built React components for a sleek and efficient UI foundation.
+- **Sentry :** An error monitoring platform to capture and analyze any potential issues for a more robust user experience.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This portfolio serves as a demonstration of my skills in building modern, responsive, and user-friendly web applications. Feel free to explore the code and see how these technologies are implemented!
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Features
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- A floating navigation which becomes visible while scrolling up
+- Slowly generated header with a glowing border magic button
+- A responsive bento-grid with different complex row-column layout
+- Infinitely Moving testimonial cards
+- Glowing border section of work experience
+- A background hover work phases
+- A sentry feedback form for the users feedback
 
-## Learn More
+## Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+- Next.js
+- Tailwind
+- Aceternity UI
+- Sentry
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## What I learned
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Styles Tailwind CSS
+- Components of Aceternity UI
+- Sentry Forms
+- Tailwind's reponsive webdesign
+- Git commands to upload the project
 
-## Deploy on Vercel
+# ScreenShots
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Hero
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Uploading hero.png…]()
+
+### Recent Projects
+
+![Uploading image.png…]()
+
+### Work Experience
+
+![Screenshot 2024-06-10 142646](https://github.com/Abubakarkhan606/next-portfolio/assets/135943512/9c419543-cc76-4e92-a01d-4140d7020cd3)
+
+### My Approach
+
+![Screenshot 2024-06-10 142659](https://github.com/Abubakarkhan606/next-portfolio/assets/135943512/fc9b5f6a-6a40-4c7f-8f51-a27a288ffaa2)
+
+### Footer
+
+![image](https://github.com/Abubakarkhan606/next-portfolio/assets/135943512/7e4033f7-ac85-4380-8521-fe84a3ae085d)
